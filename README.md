@@ -29,13 +29,13 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 
 ## Install Project
 
-Laravel.
-composer install
-php artisan serve
-
-[NodeJs](NodeJs)
-npm install
-npm start
+Laravel<br/>
+composer install<br/>
+php artisan serve<br/>
+<br/><br/>
+[NodeJs](NodeJs)<br/>
+npm install<br/>
+npm start<br/>
 
 ## Laravel Sponsors
 
