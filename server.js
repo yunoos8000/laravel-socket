@@ -12,7 +12,8 @@ io.on("connection", (socket) => {
 
     socket.on("sendMessageToServer", (message) => {
         console.log(message);
-        io.sockets.emit("sendMessageToClient", message);
+        // io.sockets.emit("sendMessageToClient", message);
+        socket.broadcast.emit("sendMessageToClient", message);
     });
 
     socket.on("disconnect", () => {

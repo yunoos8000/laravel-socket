@@ -32,7 +32,7 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 Laravel<br/>
 composer install<br/>
 php artisan serve<br/>
-<br/><br/>
+<br/>
 [NodeJs](NodeJs)<br/>
 npm install<br/>
 npm start<br/>
